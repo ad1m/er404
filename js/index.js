@@ -1,0 +1,1 @@
+/* I'm beginning in SCSS, so if you see some improvements to make please tell me */
